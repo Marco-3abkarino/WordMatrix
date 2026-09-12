@@ -11,7 +11,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/0xQuantum9/WordMatrix
+git clone https://github.com/Marco-3abkarino/WordMatrix
 cd WordMatrix
 ```
 
